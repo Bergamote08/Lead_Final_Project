@@ -4,7 +4,7 @@ The goal of this project is to :
 - Create a fraudulant payment detector and 
 - Create an infrastructre that ingest real time payment
 - Automatically classify each payment and send back this prediction in real-time to a notification center
-- 
+  
 Fraud is a huge issue among financial institutions. In the EU in 2019, the European Central Bank estimated that fraudulent credit card transactions amounted more €1 billion! 
 
 AI can really help solve this issue by detecting fraudulent payments in a very precise manner. This usecase is actually now one of the most famous one among Data Scientists.
